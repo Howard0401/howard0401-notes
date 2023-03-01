@@ -1,4 +1,6 @@
 
+# dump-from-dbeaver-via-macOS
+紀錄 mysql 用 dbeaver dump 的簡易步驟與快捷鍵坑 
 # steps
 
 ```shell
